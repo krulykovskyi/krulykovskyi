@@ -1,7 +1,3 @@
-Hi, I’m @krulykovskyi
-I’m interested in understanding of git ......
-I’m currently learning frontend
-I’m looking to collaborate on Tesla
 mail: krulikovskiy.a@gmail.com
 
 <!---
