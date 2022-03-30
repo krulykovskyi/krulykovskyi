@@ -1,3 +1,5 @@
+front-end developer
+
 mail: krulikovskiy.a@gmail.com
 
 <!---
